@@ -7,7 +7,7 @@ set_time_limit(120);
 
 // To use the official API (GPT-3 and GPT-3.5 turbo)
 // get OPENAI_API_KEY https://platform.openai.com/account/api-keys
-define('OPENAI_API_KEY', '');
+define('OPENAI_API_KEY', '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');
 
 // To use chat.openai.com
 // get cookie "_puid=user-..." - https://chat.openai.com/chat
